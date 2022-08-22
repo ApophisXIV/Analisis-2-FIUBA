@@ -4,12 +4,8 @@
     import Navbar from "./lib/Navbar.svelte";
     import Chapter from "./lib/Chapter.svelte";
 
-    // import * as JSON_DB from './assets/db.json';
-
-    // console.log(JSON_DB);
-
     let chapters_list = [];
-    fetch("./src/assets/db.json")
+    fetch("./db.json")
         .then((response) => response.json())
         .then((data) => (chapters_list = data));
 </script>
