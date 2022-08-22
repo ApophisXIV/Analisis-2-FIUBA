@@ -5,7 +5,7 @@
     import Chapter from "./lib/Chapter.svelte";
 
     let chapters_list = [];
-    fetch("./src/db/db.json")
+    fetch("./db/db.json")
         .then((response) => response.json())
         .then((data) => (chapters_list = data));
 </script>
