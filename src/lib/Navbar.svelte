@@ -13,7 +13,7 @@
 <div class="navbar fixed z-10 text-slate-200 shadow-lg">
     <div class="navbar-start">
         <div class="dropdown">
-            <label tabindex="0" class="btn btn-ghost lg:hidden">
+            <p tabindex="0" class="btn btn-ghost lg:hidden">
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     class="h-5 w-5"
@@ -27,12 +27,12 @@
                         d="M4 6h16M4 12h8m-8 6h16"
                     /></svg
                 >
-            </label>
+            </p>
             <ul
                 tabindex="0"
                 class="menu menu-compact dropdown-content mt-3 p-2 shadow rounded-box w-52"
             >
-                <li><a href="#" target="_self">Home</a></li>
+                <li><a href="#home" target="_self">Home</a></li>
                 <li tabindex="0">
                     <a href="#main">
                         Contenidos
@@ -72,13 +72,13 @@
                 <li><a href="#footer" target="_self">Contacto</a></li>
             </ul>
         </div>
-        <a class="btn btn-ghost normal-case text-xl" href="#" target="_self"
+        <a class="btn btn-ghost normal-case text-xl invisible md:visible" href="#home" target="_self"
             >Análisis Matemático II</a
         >
     </div>
     <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal p-0">
-            <li><a href="#" target="_self">Home</a></li>
+            <li><a href="#home" target="_self">Home</a></li>
             <li tabindex="0">
                 <a href="#main">
                     Contenidos
@@ -112,7 +112,7 @@
     </div>
     <div class="navbar-end">
         <ToggleTheme />
-        <a class="btn btn-ghost" href=" https://analisis2.com/" target="_blank">
+        <a class="btn btn-ghost hidden md:flex" href=" https://analisis2.com/" target="_blank">
             Ir al sitio oficial
         </a>
     </div>

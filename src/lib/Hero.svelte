@@ -1,4 +1,5 @@
 <div
+    id="home"
     class="hero min-h-screen"
     style="background-image: url(https://mediacdn.cincopa.com/v2/1096624/9!C8iFA4GWqDQ4iD/4/Asc3adeslaFIUBA_8_.jpg);"
 >
