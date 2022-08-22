@@ -47,7 +47,7 @@
                             /></svg
                         >
                     </a>
-                    <ul class="p-2 bg-base-100 text-slate-800">
+                    <ul class="p-2 bg-base-100">
                         <li>
                             <a href="#c1" target="_self">1 - GEOMETRÍA DEL PLANO DEL ESPACIO</a>
                         </li>
@@ -93,7 +93,7 @@
                         /></svg
                     >
                 </a>
-                <ul class="p-2 bg-base-100 text-slate-800">
+                <ul class="p-2 bg-base-100">
                     <li><a href="#c1" target="_self">1 - GEOMETRÍA DEL PLANO DEL ESPACIO</a></li>
                     <li><a href="#c2" target="_self">2 - FUNCIONES LIMITES CONTINUIDAD</a></li>
                     <li><a href="#c3" target="_self">3 - DIFERENCIABILIDAD. SUPERFICIES</a></li>
