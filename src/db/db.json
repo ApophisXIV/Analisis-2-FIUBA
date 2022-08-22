@@ -1,0 +1,207 @@
+[
+    {
+        "title": "Geometria del plano y del espacio",
+        "cards": [
+            {
+                "title": "Cuádricas",
+                "description": "En este primer video de la materia estudiamos, dando una definición algebraica, todas las cuádricas que precisamos para nuestro curso. Con movimientos e interpretaciones geométricas clarísimas, este material adelanta varios de los temas y conceptos que trataremos más adelante en varias unidades. Tal vez, si te cansás dada la extensión del video, te convenga verlo en dos partes. Es otra de las ventajas que tiene este tipo de materiales.",
+                "url": "https://www.youtube.com/watch?v=PjAdWnOGksU&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=2"
+            },
+            {
+                "title": "Topología del plano y del espacio",
+                "description": "En este video presentamos varias nociones topológicas de los espacios en los cuales trabajaremos a lo largo de la materia. Nociones como las de conjunto abierto, cerrado, acotado, compacto, conexo, etc. son tratadas con gráficos y movimientos que te ayudarán a entender más fácil otros conceptos como el de límite, frontera, borde, etc.",
+                "url": "https://www.youtube.com/watch?v=T7jgaTIgU0o&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=3"
+            }
+        ]
+    },
+    {
+        "title": "Funciones. Conjuntos de nivel",
+        "cards": [
+            {
+                "title": "Funciones. Conjuntos de nivel.",
+                "description": "En este importante video definimos el concepto de conjunto de nivel de una función escalar de varias variables y el concepto de gráfica de una función. Este es un video fundamental para ingresar con el pie derecho en la materia.",
+                "url": "https://www.youtube.com/watch?v=edBwOPBE5Sk&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=4"
+            },
+            {
+                "title": "Limites",
+                "description": "No hace falta decir que este concepto es uno de los más importantes del análisis matemático. Con movimientos e interpretaciones geométricas clarísimas, y con ejemplos que ilustran la teoría, este video es uno de los más importantes de la unidad.",
+                "url": "https://www.youtube.com/watch?v=CwYM9fRy5MU&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=5"
+            },
+            {
+                "title": "Continuidad. Curvas",
+                "description": "El concepto de continuidad de funciones de varias variables y el de curva como imagen de un intervalo a través de una función continua se explican en este video con una interpretación geométrica del parámetro en cuestión sin desperdicio.",
+                "url": "https://www.youtube.com/watch?v=T0YgJ38UhOQ&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=6"
+            }
+        ]
+    },
+    {
+        "title": "Diferenciabilidad. Superficies",
+        "cards": [
+            {
+                "title": "Curvas. Vector tangente",
+                "description": "En este video definimos el vector tangente a una curva tanto en el plano como en el espacio y lo utilizamos para definir la recta tangente. También tenemos interpretaciones física como posición y velocidad que sin duda serán interesantes a lo largo de tu carrera. Se presenta también una curva en el espacio como intersección de dos superficies.",
+                "url": "https://www.youtube.com/watch?v=w7sBvXDn5NA&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=7"
+            },
+            {
+                "title": "Derivadas parciales y direccionales",
+                "description": "La generalización del concepto de derivada para funciones de más de una variables se presenta en este video con interpretaciones geométricas increíbles y con movimientos que sencillamente no son posibles a través de una hoja de papel. A lo largo de todo el video se realizan ejemplos y se resuelven ejercicios que tranquilamente pueden formar parte de un examen. Este es un video fundamental.",
+                "url": "https://www.youtube.com/watch?v=56OmBqc1gQE&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=8"
+            },
+            {
+                "title": "Diferenciabilidad - Plano tangente.",
+                "description": "¡Cuidado! Este es un concepto difícil. Y los conceptos más difíciles necesitan las mejores explicaciones, las mejores síntesis, los mejores gráficos. Por eso, en exclusiva para la FIUBA, tenemos este video en el cual tratamos uno de los conceptos más importantes de las funciones de varias variables.",
+                "url": "https://www.youtube.com/watch?v=IlwYzexCi88&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=9"
+            },
+            {
+                "title": "Superficies. Forma paramétrica.",
+                "description": "De la misma manera en que hemos introducido el concepto de curva como imagen de un intervalo (conexo) a través de una función continua tenemos ahora el concepto análogo de superficie. Estudiamos, con movimientos nunca antes vistos, conceptos como regularidad, plano tangente, recta normal, etc.",
+                "url": "https://www.youtube.com/watch?v=lft52DBQ19s&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=10"
+            }
+        ]
+    },
+    {
+        "title": "Funciones compuestas.",
+        "cards": [
+            {
+                "title": "Regla de la cadena",
+                "description": "En este primer video de la unidad realizamos un repaso sobre composición de funciones para pasar luego a la regla de la cadena de varias variables. Tanto a través de la matriz derivada como por el método del 'arbolito', este video recorre los casos más importantes de la derivación funciones que quedan definidas como composición de otras.",
+                "url": "https://www.youtube.com/watch?v=WejRA_qOndQ&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=11"
+            },
+            {
+                "title": "Teorema de la función implícita (I)",
+                "description": "En este original video, que trata especialmente los casos más usuales en los exámenes, presentamos el concepto de función definida implícitamente tanto por una ecuación como por un sistema de ecuaciones. Con interpretaciones geométricas cuidadosamente seleccionadas, este video constituye un recurso fundamental en nuestro estudio de este importante concepto.",
+                "url": "https://www.youtube.com/watch?v=sq3jJqaX87c&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=12"
+            },
+            {
+                "title": "Teorema de la función implícita (II)",
+                "description": "El caso del teorema de la función implícita en el cual hay más de una ecuación merece especial atención y por eso tenemos este video que trata especialmente el caso de dos ecuaciones con tres incógnitas y el de dos ecuaciones con cuatro incógnitas. Los temas de este video suelen aparecer en los exámenes.",
+                "url": "https://www.youtube.com/watch?v=RgfQCra8yOs&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=13"
+            }
+        ]
+    },
+    {
+        "title": "Polinomio de Taylor. Extremos.",
+        "cards": [
+            {
+                "title": "Polinomio de Taylor",
+                "description": "En este video presentamos el análogo del polinomio de Taylor de una función de una variable para el caso de dos o más variables. Una interpretación geométrica interesante no dejará dudas de lo que este polinomio representa.",
+                "url": "https://www.youtube.com/watch?v=gEQiGR7y-Oo&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=14"
+            },
+            {
+                "title": "Extremos locales",
+                "description": "Con interpretaciones geométricas que explican la definición, y con ejemplos y ejercicios de problemas tomados en exámenes este video trata pedagógicamente el importante concepto de extremo local de una función escalar de más de una variable.",
+                "url": "https://www.youtube.com/watch?v=uoFD26TfZd4&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=15"
+            },
+            {
+                "title": "Teorema de Weierstrass",
+                "description": "Si hay algún matemático que se ha dedicado al análisis puro, ese matemático es Karl Weierstrass. Entre sus numerosas contribuciones ha probado que una función continua definida en un conjunto compacto alcanza sus valores máximo y mínimos absolutos. Éste y otros conceptos, como el de extremos ligados, se tratan en este video de extrema importancia para tu carrera de ingeniería.",
+                "url": "https://www.youtube.com/watch?v=3FfhEi2nn_c&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=16"
+            }
+        ]
+    },
+    {
+        "title": "Ecuaciones diferenciales",
+        "cards": [
+            {
+                "title": "Concepto de ecuación diferencial",
+                "description": "¡Este es un tema fascinante! En este video introducimos el concepto de ecuación diferencial, de orden, de solución general y particular, de ecuación de variables separables, etc. etc. etc.",
+                "url": "https://www.youtube.com/watch?v=fc54hjCK6KM&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=17"
+            },
+            {
+                "title": "Trayectorias ortogonales",
+                "description": "El concepto de haz de curvas nos conduce a la formación de la ecuación diferencial del haz dado. Junto con el concepto de trayectorias ortogonales presentamos y resolvemos la ecuación diferencial lineal de primer orden.",
+                "url": "https://www.youtube.com/watch?v=HtYZW8rYzQ0&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=18"
+            }
+        ]
+    },
+    {
+        "title": "Integrales curvilíneas.",
+        "cards": [
+            {
+                "title": "Integrales de línea de campos escalares",
+                "description": "En este video se definen con lujo de detalles conceptos como el de longitud de una curva, abscisa curvilínea, integral de línea de campo escalar y sus aplicaciones más inmediatas a la física.",
+                "url": "https://www.youtube.com/watch?v=X2pYXeSdFIQ&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=19"
+            },
+            {
+                "title": "Campos vectoriales - Circulación",
+                "description": "En este video presentamos el concepto de integral de línea de campo vectorial con interesantes interpretaciones físicas y con varios ejemplos que nos ayudan a entender este importantísimo concepto.",
+                "url": "https://www.youtube.com/watch?v=G68rZeEkJUo&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=20"
+            },
+            {
+                "title": "Función potencial. Campos de gradientes.",
+                "description": "En este video definimos un importante tipo de campos vectoriales, a saber: el campo de gradientes. Las integrales de línea de estos campos no dependen de la curva que se utilice para calcularla. Solo depende de los puntos inicial y final de la misma. Este y otros conceptos junto con varios teoremas son estudiados como nunca en este video completísimo. Este es un video fundamental.",
+                "url": "https://www.youtube.com/watch?v=yLiverpKiY8&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=21"
+            }
+        ]
+    },
+    {
+        "title": "Integrales múltiples",
+        "cards": [
+            {
+                "title": "Integrales dobles",
+                "description": "El concepto de integral doble tiene numerosas aplicaciones a la física y a la ingeniería. Luego de una introducción rigurosa del tema pasamos al cálculo de estas integrales, cálculo que suele hacerse con ayuda del teorema de Fubini.",
+                "url": "https://www.youtube.com/watch?v=W0-3hVOB5zU&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=22"
+            },
+            {
+                "title": "Cambio de variables en integrales dobles",
+                "description": "En este video estudiamos el teorema del cambio de variables en integrales dobles con especial énfasis en el cambio definido por una transformación lineal. Estudiamos también el cambio de coordenadas cartesianas a polares y a elípticas.",
+                "url": "https://www.youtube.com/watch?v=7gZqZYd_S1k&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=23"
+            },
+            {
+                "title": "Integrales triples",
+                "description": "Este análogo teórico de las integrales dobles no presenta mayores dificultades. Pero la práctica puede resultar más difícil porque los dominios de integración ya no están en el plano sino en el espacio. Por eso en este video tratamos este tema con gráficos especialmente creados para arrojar luz sobre estos lugares oscuros.",
+                "url": "https://www.youtube.com/watch?v=RWvZx5Goles&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=24"
+            },
+            {
+                "title": "Cambio de variables en integrales triples",
+                "description": "En este video presentamos el teorema del cambio de variables en integrales triples al tiempo que introducimos los sistema de coordenadas esféricas y cilíndricas.",
+                "url": "https://www.youtube.com/watch?v=HgpTRbUo8I8&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=25"
+            }
+        ]
+    },
+    {
+        "title": "Integrales de superficie – Flujo.",
+        "cards": [
+            {
+                "title": "Integrales de superficie - Flujo",
+                "description": "¡Dos videos en uno! En este video, que tal vez te convenga ver en dos partes, definimos integral de superficie de campo escalar y de campo vectorial. Introducimos también el concepto de orientación de una superficie y de flujo de un campo vectorial a través de ella. Este es un video fundamental.",
+                "url": "https://www.youtube.com/watch?v=CU0NAZY-Lgs&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=26"
+            }
+        ]
+    },
+    {
+        "title": "Teoremas integrales",
+        "cards": [
+            {
+                "title": "Teorema de Gauss",
+                "description": "El teorema de la divergencia es tratado en este video con numerosos ejemplos y ejercicios que arrojan luz sobre el importante significado de la igualdad que se presenta en dicho teorema. Damos también una aplicación del teorema al concepto de línea de campo.",
+                "url": "https://www.youtube.com/watch?v=ESaoNcVC_so&ab_channel=MartinMaulhardt"
+            },
+            {
+                "title": "Teorema de Green",
+                "description": "En este video estudiamos el teorema de Green tanto para dominios simplemente conexos como múltiplemente conexos. Con varios ejercicios que ilustran este importante teorema este video constituye una ayuda fundamental en el estudio de esta unidad.",
+                "url": "https://www.youtube.com/watch?v=u9MEQvff_IM&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=27"
+            },
+            {
+                "title": "Teorema de Stokes",
+                "description": "El importantísimo teorema del rotor que en muchas ocasiones permite calcular una circulación de un campo a lo largo de una curva contenida en el espacio se estudia en este video fundamental. Con todas las cuentas hechas este video constituye una ayuda fundamental para completar los ejercicios de la guía.",
+                "url": "https://www.youtube.com/watch?v=EaRYnLnnUys&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=29"
+            },
+            {
+                "title": "Existencia de la función potencial",
+                "description": "En este video, que cierra un tema abierto en la unidad siete, estudiamos la existencia de función potencial cuando el dominio del campo no es simplemente conexo. Con un famoso contraejemplo y con la ayuda de los teoremas integrales podremos, por fin, dar una respuesta completa.",
+                "url": "https://www.youtube.com/watch?v=dUyf2byd-jM&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=30"
+            }
+        ]
+    },
+    {
+        "title": "Ecuaciones diferenciales (II)",
+        "cards": [
+            {
+                "title": "Ecuación homogénea y total exacta",
+                "description": "En este video de despedida estudiamos las ecuaciones diferenciales homogéneas de primer orden y la ecuación diferencial total exacta. Repasamos también conceptos estudiados en la unidad 6. ¡Adiós!",
+                "url": "https://www.youtube.com/watch?v=5dteSqfO9vU&list=PLM7ZBJfsXV3RhmUZUf2AJj3rOX5YlfmKZ&index=31"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "name": "Analisis-2-fiuba",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "deploy": "gh-pages -d dist"
+    },
+    "devDependencies": {
+        "@sveltejs/vite-plugin-svelte": "^1.0.1",
+        "autoprefixer": "^10.4.8",
+        "postcss": "^8.4.16",
+        "svelte": "^3.49.0",
+        "tailwindcss": "^3.1.8",
+        "vite": "^3.0.7"
+    },
+    "dependencies": {
+        "daisyui": "^2.20.0",
+        "gh-pages": "^4.0.0"
+    }
+}
