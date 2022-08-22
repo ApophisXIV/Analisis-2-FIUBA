@@ -16,7 +16,7 @@
             <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow rounded-box w-52"><li><a href="#home" target="_self">Home</a></li> 
                 <li tabindex="0"><a href="#main">Contenidos
                         <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"></path></svg></a> 
-                    <ul class="p-2 bg-base-100 text-slate-800"><li><a href="#c1" target="_self">1 - GEOMETR\xCDA DEL PLANO DEL ESPACIO</a></li> 
+                    <ul class="p-2 bg-base-100"><li><a href="#c1" target="_self">1 - GEOMETR\xCDA DEL PLANO DEL ESPACIO</a></li> 
                         <li><a href="#c2" target="_self">2 - FUNCIONES LIMITES CONTINUIDAD</a></li> 
                         <li><a href="#c3" target="_self">3 - DIFERENCIABILIDAD. SUPERFICIES</a></li> 
                         <li><a href="#c4" target="_self">4 - FUNCIONES COMPUESTAS E IMPL\xCDCITAS</a></li> 
@@ -31,7 +31,7 @@
         <a class="btn btn-ghost normal-case text-xl invisible md:visible" href="#home" target="_self">An\xE1lisis Matem\xE1tico II</a>`,r=S(),l=v("div"),l.innerHTML=`<ul class="menu menu-horizontal p-0"><li><a href="#home" target="_self">Home</a></li> 
             <li tabindex="0"><a href="#main">Contenidos
                     <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"></path></svg></a> 
-                <ul class="p-2 bg-base-100 text-slate-800"><li><a href="#c1" target="_self">1 - GEOMETR\xCDA DEL PLANO DEL ESPACIO</a></li> 
+                <ul class="p-2 bg-base-100"><li><a href="#c1" target="_self">1 - GEOMETR\xCDA DEL PLANO DEL ESPACIO</a></li> 
                     <li><a href="#c2" target="_self">2 - FUNCIONES LIMITES CONTINUIDAD</a></li> 
                     <li><a href="#c3" target="_self">3 - DIFERENCIABILIDAD. SUPERFICIES</a></li> 
                     <li><a href="#c4" target="_self">4 - FUNCIONES COMPUESTAS E IMPL\xCDCITAS</a></li> 
