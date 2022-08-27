@@ -10,7 +10,7 @@
     };
 </script>
 
-<div class="navbar fixed z-10 text-slate-200 shadow-lg">
+<div class="navbar fixed z-10 bg-base-200 shadow-lg">
     <div class="navbar-start">
         <div class="dropdown">
             <p tabindex="0" class="btn btn-ghost lg:hidden">
@@ -30,11 +30,11 @@
             </p>
             <ul
                 tabindex="0"
-                class="menu menu-compact dropdown-content mt-3 p-2 shadow rounded-box w-52"
+                class="menu menu-compact dropdown-content bg-base-100 mt-3 p-2 shadow rounded-box w-52"
             >
                 <li><a href="#home" target="_self">Home</a></li>
                 <li tabindex="0">
-                    <a href="#main">
+                    <p>
                         Contenidos
                         <svg
                             class="fill-current"
@@ -46,7 +46,7 @@
                                 d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"
                             /></svg
                         >
-                    </a>
+                    </p>
                     <ul class="p-2 bg-base-100">
                         <li>
                             <a href="#c1" target="_self">1 - GEOMETRÍA DEL PLANO DEL ESPACIO</a>
